@@ -13,4 +13,4 @@ Aqui estarão presentes :
 
 # Projetos 
 - Projetos desafiando minhas capacidades de programar usando JS
-- Tais projetos podem conter tecnoligias como : HTML, CSS, SCSS, PHP
+- Tais projetos podem conter tecnologias como : HTML, CSS, SCSS, PHP
